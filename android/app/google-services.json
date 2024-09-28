@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982108295175",
+    "project_id": "codeapp-351a0",
+    "storage_bucket": "codeapp-351a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982108295175:android:af5fa43fb1cdc910315aa2",
+        "android_client_info": {
+          "package_name": "com.example.mycodesaver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHvkDyLD9GmWRsie9TgigdJVBm3bS7ZqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
